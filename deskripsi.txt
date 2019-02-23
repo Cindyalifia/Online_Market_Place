@@ -1,0 +1,4 @@
+1301164102 Naufal Afif - Halaman Cart 
+1301164028 Rafli Alwan Nugraha - Halaman Detail
+1301164053 Setyo Nugroho - Halaman Home, Halaman Order, Semua Halaman Admin
+1301160199 Cindy Alifia Putri - Halaman Login, Login Admin, dan Register

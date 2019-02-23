@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "kategori": "Kemeja Pria",
+      "data": [
+        {
+          "name": "Polos Batik",
+          "price": 62100,
+          "rating": 7,
+          "image": "./images/json/p1.jpg"
+        },
+        {
+          "name": "Kemeja Flannel",
+          "price": 83700,
+          "rating": 8,
+          "image": "./images/json/p2.jpg"
+        },
+        {
+          "name": "Casual T-Shirt",
+          "price": 37200,
+          "rating": 7,
+          "image": "./images/json/p3.jpg"
+        },
+        {
+          "name": "KEMEJA KERJA POLOS SLIMFIT",
+          "price": 73500,
+          "rating": 6,
+          "image": "./images/json/p4.jpg"
+        },
+        {
+          "name": "Kemeja Flannel",
+          "price": 87600,
+          "rating": 5,
+          "image": "./images/json/p5.jpg"
+        },
+        {
+          "name": "Kemeja Krah",
+          "price": 47700,
+          "rating": 8,
+          "image": "./images/json/p6.jpg"
+        }
+      ]
+    },
+    {
+      "kategori": "Kaos Pria",
+      "data": [
+        {
+          "name": "Hurricane H 0134",
+          "price": 156200,
+          "rating": 9,
+          "image": "./images/json/pp1.jpg"
+        },
+        {
+          "name": "Hurricane H 0111",
+          "price": 176000,
+          "rating": 9,
+          "image": "./images/json/pp2.jpg"
+        },
+        {
+          "name": "K4-34 T-Shirt",
+          "price": 27500,
+          "rating": 7,
+          "image": "./images/json/pp3.jpg"
+        },
+        {
+          "name": "salur southpole",
+          "price": 41900,
+          "rating": 8,
+          "image": "./images/json/pp4.jpg"
+        },
+        {
+          "name": "Hurricane H 0308",
+          "price": 187200,
+          "rating": 9,
+          "image": "./images/json/pp5.jpg"
+        },
+        {
+          "name": " T-Shirt O-NECK",
+          "price": 31700,
+          "rating": 6,
+          "image": "./images/json/pp6.jpg"
+        }
+      ]
+    },
+    {
+      "kategori": "Kemeja Wanita",
+      "data": [
+        {
+          "name": "Blouse Wanita",
+          "price": 82800,
+          "rating": 9,
+          "image": "./images/json/w1.jpg"
+        },
+        {
+          "name": "Sleeve Shirt",
+          "price": 54900,
+          "rating": 6,
+          "image": "./images/json/w2.jpg"
+        },
+        {
+          "name": "Plus Size Lasercut Tops",
+          "price": 82800,
+          "rating": 9,
+          "image": "./images/json/w3.jpg"
+        },
+        {
+          "name": "Kemeja Jumbo Ethnic",
+          "price": 41900,
+          "rating": 8,
+          "image": "./images/json/w4.jpg"
+        },
+        {
+          "name": "Kemeja Polkadot",
+          "price": 19600,
+          "rating": 9,
+          "image": "./images/json/w5.jpg"
+        },
+        {
+          "name": "Plain Shirt Long SLeeve",
+          "price": 46500,
+          "rating": 9,
+          "image": "./images/json/w6.jpg"
+        }
+      ]
+    },
+    {
+      "kategori": "Kaos Wanita",
+      "data": [
+        {
+          "name": "KaosGp Knit",
+          "price": 72100,
+          "rating": 7,
+          "image": "./images/json/ww1.jpg"
+        },
+        {
+          "name": "Short Sleeve Round Neck T-Shirts",
+          "price": 36300,
+          "rating": 6,
+          "image": "./images/json/ww2.jpg"
+        },
+        {
+          "name": "Baju Belang Oblong",
+          "price": 51200,
+          "rating": 7,
+          "image": "./images/json/ww3.jpg"
+        },
+        {
+          "name": "JCLOTHES Tumblr Tee",
+          "price": 31600,
+          "rating": 8,
+          "image": "./images/json/ww4.jpg"
+        },
+        {
+          "name": "Cotton Magenta",
+          "price": 91100,
+          "rating": 8,
+          "image": "./images/json/ww5.jpg"
+        },
+        {
+          "name": "Striped T-Shirt modelist",
+          "price": 37200,
+          "rating": 6,
+          "image": "./images/json/ww6.jpg"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,113 @@
+body {
+  background: #fff;
+}
+
+.navbar {
+  background: #e74c3c;
+}
+
+.jumbotron {
+  background: #fff;
+  margin-top: 50px;
+}
+
+.slider {
+  margin: 10px auto;
+}
+
+.slick-slide {
+margin: 0px 20px;
+}
+
+.slick-slide img {
+width: 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+color: black;
+}
+
+
+.slick-slide {
+transition: all ease-in-out .3s;
+opacity: .2;
+}
+
+.slick-active {
+opacity: .5;
+}
+
+.slick-current {
+opacity: 1;
+}
+
+.card-link {
+  text-decoration: none; 
+  color: black;
+}
+
+.card-link:hover {
+  color: black;
+}
+
+.card-link > div:hover {
+  box-shadow: 1px 1px 5px #888888;
+}
+
+.item-price {
+  color: red;
+  font-size: 15pt;
+  font-weight: bold;
+}
+
+.detail-img {
+  width: 100%;
+}
+
+.img-small {
+  width: 25%;
+}
+
+.image-tab .nav-item {
+  width: 10%;
+}
+
+.image-tab .nav-item a {
+  padding: 0px;
+}
+
+.login-body {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  height: 100%;
+}
+
+.sign-in {
+  width: 100%;
+  max-width: 420px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.hov:hover {
+  text-decoration: underline;
+}
+
+#imageLogo {
+  width: 110%;
+  height: 110%;
+}
+
+#pad-left {
+  width: 15%;
+}
